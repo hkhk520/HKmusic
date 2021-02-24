@@ -8,15 +8,20 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "vant": "^2.11.2",
     "vue": "^2.6.11",
+    "vue-directive-touch": "^1.0.28",
     "vue-router": "^3.2.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-plugin-router": "~4.5.0",
     "@vue/cli-service": "~4.5.0",
+    "axios": "^0.18.0",
+    "babel-plugin-import": "^1.13.3",
     "less": "^3.0.4",
     "less-loader": "^5.0.0",
+    "vue-cli-plugin-axios": "0.0.4",
     "vue-template-compiler": "^2.6.11"
   }
 }
